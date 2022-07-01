@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "NVCApp",
+    "owner":"rose_vg",
+    "slug": "NVCAPP",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
